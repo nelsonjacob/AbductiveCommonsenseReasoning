@@ -1,0 +1,72 @@
+[
+    {
+        "observation_1": "Maya made cookies for her students.",
+        "observation_2": "Her students loved the chocolate chip cookies.",
+        "hypothesis_1": "Maya made sure to add extra chocolate chips.",
+        "hypothesis_2": "Maya forgot the cookies in the oven and they burned.",
+        "label": 1
+    },
+    {
+        "observation_1": "Maya tanned in near the beach all afternoon.",
+        "observation_2": "The next day, Maya had a painful sunburn.",
+        "hypothesis_1": "Maya made sure to apply extra sunscreen.",
+        "hypothesis_2": "Maya forgot her sunscreen at home.",
+        "label": 2
+    },
+    {
+        "observation_1": "Phoenix is a lazy roommate.",
+        "observation_2": "Phoenix's roommate was upset and confronted him.",
+        "hypothesis_1": "Phoenix left in a hurry.",
+        "hypothesis_2": "Phoenix left a mess in the kitchen.",
+        "label": 2
+    },
+    {
+        "observation_1": "Aaron had never eaten sushi.",
+        "observation_2": "He discovered he loves spicy tuna sushi.",
+        "hypothesis_1": "Aaron's roommate treated him for a birthday dinner.",
+        "hypothesis_2": "Aaron's Japanese friend Kenji made him a sushi dinner.",
+        "label": 2
+    },
+    {
+        "observation_1": "Diya was nervous for her final chemistry exam.",
+        "observation_2": "Diya scored highest in her class for the exam.",
+        "hypothesis_1": "Diya studied all week for the exam and reviewed all the lectures.",
+        "hypothesis_2": "Diya celebrated graduation the night of the exam.",
+        "label": 1
+    },
+    {
+        "observation_1": "Maya was biking to work.",
+        "observation_2": "Maya ended up in the emergency room.",
+        "hypothesis_1": "Maya was biking extra fast to get to work on time.",
+        "hypothesis_2": "A car hit Maya while she was biking.",
+        "label": 2
+    },
+    {
+        "observation_1": "Ronan hated his service job but loved music.",
+        "observation_2": "Now, Ronan makes music and earns lots of money.",
+        "hypothesis_1": "Ronan studied and practiced singing after he quit his job.",
+        "hypothesis_2": "Ronan went to college and studied accounting.",
+        "label": 1
+    },
+    {
+        "observation_1": "Jonathan lifted weights consistently for a year.",
+        "observation_2": "He gained 15 pounds of muscle.",
+        "hypothesis_1": "Jonathan's diet consisted of solely bread, chocolate, and cheese.",
+        "hypothesis_2": "Jonathan's diet consisted of solely rice, chicken, and broccoli.",
+        "label": 2
+    },
+    {
+        "observation_1": "Nisha used to hate the taste of chicken.",
+        "observation_2": "Nisha now frequently enjoys the taste of chicken.",
+        "hypothesis_1": "Maya prepared Nisha a tasty fried chicken dish.",
+        "hypothesis_2": "The last time Nisha ate fried chicken, she got food poisoning.",
+        "label": 1
+    },
+    {
+        "observation_1": "Jacob was the oldest child in his family.",
+        "observation_2": "His younger sibling was mad at him.",
+        "hypothesis_1": "Jacob hit his older brother.",
+        "hypothesis_2": "Jacob hit his younger brother.",
+        "label": 2
+    }
+]

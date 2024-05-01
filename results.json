@@ -1,0 +1,10 @@
+{
+	"Random": 0.5, 
+	"ACR Paper (2019)": 0.689,
+	"CompassMTL Paper (2022)": 0.928,
+	"Human Testing": 0.929,
+	"GPT-3.5-turbo": 0.6878306878306878,
+	"GPT-4": 0.8585858585858586,
+	"Non-public data GPT-3.5-turbo": 1.0,
+	"Non-public data GPT-4": 1.0
+}
